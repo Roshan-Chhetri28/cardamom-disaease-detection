@@ -1,0 +1,6 @@
+[2024-12-26 17:14:51,973] 23 root - INFO - Started DataIngestion Method
+[2024-12-26 17:14:52,053] 95 root - INFO - Initiating data transformation.
+[2024-12-26 17:17:34,226] 101 root - INFO - Applying the pipeline
+[2024-12-26 17:17:34,226] 76 root - INFO - Creating data transformation pipeline.
+[2024-12-26 17:17:34,252] 106 root - INFO - data transformation complete
+[2024-12-26 17:17:34,252] 31 root - INFO - Model Training started

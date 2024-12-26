@@ -1,0 +1,11 @@
+tensorflow
+pillow
+opencv-python
+scikit-learn
+numpy
+matplotlib
+flask
+dill
+catboost
+xgboost
+-e .

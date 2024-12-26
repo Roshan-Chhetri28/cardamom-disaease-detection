@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: Cardamom-Project
+Version: 0.0.1
+Author: Roshan Chhetri
+Author-email: roshanchhetri931@gmail.com
+Requires-Dist: tensorflow
+Requires-Dist: pillow
+Requires-Dist: opencv-python
+Requires-Dist: scikit-learn
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: flask
