@@ -10,3 +10,6 @@ Requires-Dist: scikit-learn
 Requires-Dist: numpy
 Requires-Dist: matplotlib
 Requires-Dist: flask
+Requires-Dist: dill
+Requires-Dist: catboost
+Requires-Dist: xgboost
